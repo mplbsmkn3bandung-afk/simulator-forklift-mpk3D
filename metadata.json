@@ -1,0 +1,6 @@
+{
+  "name": "Forklift Warehouse Simulator 3D",
+  "description": "Simulator gudang 3D interaktif menggunakan Three.js dengan lantai bergrid, pencahayaan realistis, forklift bermanuver, dan misi kargo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
